@@ -11,16 +11,6 @@
       "$className": "ServerStorage",
       "$ignoreUnknownInstances": true,
       "$path": "src/ServerStorage"
-    },
-    "Workspace": {
-      "$className": "Workspace",
-      "$ignoreUnknownInstances": true,
-      "$path": "src/Workspace"
-    },
-    "PluginDebugService": {
-      "$className": "PluginDebugService",
-      "$ignoreUnknownInstances": true,
-      "$path": "src/PluginDebugService"
     }
   }
 }
